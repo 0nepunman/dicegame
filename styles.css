@@ -1,0 +1,50 @@
+body {
+  color: #fff;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+
+
+
+/* CONTAINERS */
+
+.main {
+  background-color: #19282F;
+  padding: 3% 15%;
+}
+
+.credits {
+  background-color: #533535;
+  padding: 3% 15%;
+}
+
+/* MAIN PLAY AREA */
+
+.title {
+  font-family: 'Tapestry', cursive;
+  font-size: 2.8rem;
+}
+
+.heading {
+  color: #AFD5AF;
+  font-family: 'Tapestry', cursive;
+  font-size: 7rem;
+  font-weight: 700;
+  padding-bottom: 0;
+}
+
+.dice-interface {
+  display: inline-block;
+}
+
+.btn {
+  background-color: #9C060B;
+  font-size: 1.5rem;
+  width: 200px;
+}
+
+.btn:hover {
+  color: black;
+  background-color: #AFD5AF;
+  border-color: #19282F;
+}
