@@ -4,8 +4,6 @@ body {
   font-family: 'Indie Flower', cursive;
 }
 
-
-
 /* CONTAINERS */
 
 .main {
@@ -29,6 +27,7 @@ body {
   color: #AFD5AF;
   font-family: 'Tapestry', cursive;
   font-size: 7rem;
+  text-shadow: 5px 0 #57755e;
   font-weight: 700;
   padding-bottom: 0;
 }
